@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="24f800bd-e7ed-40e4-b61c-22e269db94ca">
+  <producedTypes>
+    <objectType typeId="640df8ea-092d-43f6-9259-e455e903653a" valueTypeId="11d1b77d-31b7-4d87-8946-c21b221837ae"/>
+  </producedTypes>
+  <name>БП_ОтправкаКомплектовДокументовКонтрагентам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Б п отправка комплектов документов контрагентам</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="cc374278-43b8-4de6-934d-497342593ce9"/>
+  <defaultForm>ExternalDataProcessor.БП_ОтправкаКомплектовДокументовКонтрагентам.Form.Форма</defaultForm>
+  <forms uuid="43794d84-1025-4f47-82e3-fec459819917">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
